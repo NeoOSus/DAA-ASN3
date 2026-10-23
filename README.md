@@ -69,10 +69,3 @@ The generator creates a new `Random(42)` for each graph. If random endpoints coi
 
 The report shows the fitted slopes of edge scans and also of Kruskal's sorting comparisons. Sorting gives Kruskal its logarithmic factor; its edge-scan counter alone does not measure sorting.
 
-## Git and submission
-
-The local repository contains `main`, `feature/dsu`, `feature/mst`, `feature/scc`, `feature/paths`, `feature/metrics` and release tag `v1.0`. The ZIP includes the local `.git` directory to preserve this history. No remote GitHub repository has been created. The assignment also asks for a GitHub link; add that separately when submitting to Moodle.
-
-## AI use acknowledgement
-
-OpenAI Codex was used to generate the initial implementations, tests, benchmark, plotting script and report, and to run the checks and fix issues. This assistance is disclosed rather than presented as unaided work. The submitted code and explanations should be reviewed and understood before the defense.
